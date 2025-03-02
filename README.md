@@ -4,7 +4,7 @@
 
 ## Screenshot:
 
-<b>[Experience it Live](https://main--comforting-biscotti-e87a56.netlify.app)</b>
+<b>[Experience it Live](https://superb-kringle-b39c4f.netlify.app/)</b>
 
 <img src="./public/screenshot.png" alt="image-app"/>
 
@@ -28,7 +28,7 @@
 5. Conversion of sheets to json and reading from json.
 6. Copying and Pasting of a Single Cell (including formula and styles if any)
 
-#### Maybe in Future (Raise PR if you want to do it.):
+#### Future Optimizations:
 
 1. Multi-cell copy paste.
 2. Export/Import CSVs.
